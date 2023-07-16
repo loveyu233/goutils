@@ -2,7 +2,7 @@
 
 ## 下载
 ```shell
-go get github.com/loveyu233/goutils/imagecode@v1.0.0
+go get github.com/loveyu233/goutils/imagecode@v2.0.0
 ```
 
 ### imagecode
